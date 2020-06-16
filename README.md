@@ -1,2 +1,1 @@
-# HiveSightMedia
-HiveSightMedia
+# Juan Mann
